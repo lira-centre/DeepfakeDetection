@@ -1,5 +1,4 @@
-# DeepfakeDetection
-Interpretable-through-prototypes deepfake detection for diffusion models
+# Interpretable-through-prototypes deepfake detection for diffusion models
 
 Paper:
 Aghasanli, Agil, Dmitry Kangin, and Plamen Angelov. "Interpretable-through-prototypes deepfake detection for diffusion models." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2023.
